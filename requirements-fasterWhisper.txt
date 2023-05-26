@@ -7,3 +7,4 @@ json5
 torch
 torchaudio
 more_itertools
+boto3==1.26.122
